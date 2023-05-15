@@ -1,6 +1,6 @@
 {
   "block.createbigcannons.ap_shell": "穿甲弹",
-  "block.createbigcannons.ap_shell.tooltip": "ARMOR PIERCING (AP) SHELL",
+  "block.createbigcannons.ap_shell.tooltip": "穿甲弹",
   "block.createbigcannons.ap_shell.tooltip.behaviour1": "Explodes.",
   "block.createbigcannons.ap_shell.tooltip.condition1": "On Detonation",
   "block.createbigcannons.ap_shell.tooltip.summary": "Can effectively _pierce through blocks_, detonating inside protected structures.",
