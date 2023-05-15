@@ -1,5 +1,5 @@
 {
-  "block.createbigcannons.ap_shell": "Armor Piercing (AP) Shell",
+  "block.createbigcannons.ap_shell": "穿甲弹",
   "block.createbigcannons.ap_shell.tooltip": "ARMOR PIERCING (AP) SHELL",
   "block.createbigcannons.ap_shell.tooltip.behaviour1": "Explodes.",
   "block.createbigcannons.ap_shell.tooltip.condition1": "On Detonation",
