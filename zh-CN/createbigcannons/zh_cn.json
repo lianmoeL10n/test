@@ -8,7 +8,7 @@
   "block.createbigcannons.ap_shot.tooltip": "ARMOR PIERCING (AP) SHOT",
   "block.createbigcannons.ap_shot.tooltip.summary": "Can effectively _pierce through blocks_. Good against _armored targets_. _Cannot be fuzed and detonated._",
   "block.createbigcannons.autocannon.tooltip.materialProperties": "机炮属性",
-  "block.createbigcannons.autocannon.tooltip.maxLength": "Maximum Length",
+  "block.createbigcannons.autocannon.tooltip.maxLength": "最大长度",
   "block.createbigcannons.autocannon.tooltip.maxLength.goggles": "_%s blocks_ (including chamber)",
   "block.createbigcannons.autocannon.tooltip.weightImpact": "Weight Impact",
   "block.createbigcannons.autocannon.tooltip.weightImpact.goggles": "_%sx RPM_",
